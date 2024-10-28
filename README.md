@@ -35,7 +35,30 @@ python manage.py runserver
 ```
 
 ## Hasil
-![Image 1](hasil/CV Detail.png)
+
+Jika megklik CV maka akan muncul Detail CV nya
+
+![CV Detail](https://github.com/user-attachments/assets/e69ef7ca-8772-4b0d-bb10-5226e380caee)
+
+Jika megklik Profil Umum maka akan muncul isi Profil Umum
+
+![Profil Umum](https://github.com/user-attachments/assets/471fb21c-d421-4e21-8d10-591eb6b81d0a)
+
+Jika megklik Informasi Kontak maka akan muncul isi Informasi Kontak
+
+![Informasi Kontak](https://github.com/user-attachments/assets/d41ba25e-d0dc-489b-b107-15ea5029b768)
+
+Jika megklik CV maka akan muncul Kemampuan
+
+![Kemampuan](https://github.com/user-attachments/assets/48c7a7d2-c1ec-4981-bb62-3ed6f2ba60ec)
+
+Jika megklik Pendidikan maka akan muncul riwayat Pendidikan
+
+![Pendidikan](https://github.com/user-attachments/assets/458641d8-6890-4074-928d-9bb549e81cb7)
+
+Jika megklik Pengalaman maka akan muncul Detail Pengalaman Organisasi dan Kepanitiaan
+
+![Pengalaman](https://github.com/user-attachments/assets/087790f8-6381-40d1-9e41-b71b6b623939)
 
 ## Dibuat Oleh
 Nama         : Tyka Yulistriany\
