@@ -63,6 +63,8 @@ Jika mengklik Pengalaman maka akan muncul Detail Pengalaman Organisasi dan Kepan
 ## Dibuat Oleh ✨
 Nama         : Tyka Yulistriany\
 NIM          : 2306838\
+Mata Kuliah  : Pemrograman Internet\
+Dosen Pengampu : Erna Piantari,S.Kom.,M.T.\
 Program Studi: Pendidikan Ilmu Komputer-3B
 
 --- 
